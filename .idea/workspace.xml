@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="455f9be1-cb2e-413f-a4da-a5844f874944" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="455f9be1-cb2e-413f-a4da-a5844f874944" name="Default" comment="ignore fix&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MetroParser.iws" />
@@ -80,7 +78,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="198" column="4" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.4891945" vertical-offset="3462" max-vertical-offset="4480">
+            <state line="218" column="5" selection-start="2661" selection-end="2661" vertical-scroll-proportion="0.8821218" vertical-offset="3462" max-vertical-offset="4500">
               <folding />
             </state>
           </provider>
@@ -437,6 +435,15 @@
       <created>1386017178786</created>
       <updated>1386017178786</updated>
     </task>
+    <task id="LOCAL-00001" summary="ignore fix">
+      <created>1390757968407</created>
+      <updated>1390757968407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ignore fix&#10;">
+      <created>1390758110991</created>
+      <updated>1390758110991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -481,6 +488,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="ignore fix" />
+    <MESSAGE value="ignore fix&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore fix&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -619,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="4" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.4891945" vertical-offset="3462" max-vertical-offset="4480">
+        <state line="218" column="5" selection-start="2661" selection-end="2661" vertical-scroll-proportion="0.8821218" vertical-offset="3462" max-vertical-offset="4500">
           <folding />
         </state>
       </provider>
